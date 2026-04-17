@@ -12,7 +12,7 @@ export default function BeforeAfter() {
             // The Transformation
           </span>
           <h2 className="text-white text-4xl md:text-6xl font-black uppercase mt-4 tracking-tighter italic">
-            Visual <span className="text-zinc-700">Surgery</span>
+            Visual <span className="text-zinc-700">Upgrade</span>
           </h2>
           <p className="text-zinc-500 text-xs uppercase tracking-[0.2em] mt-4 font-bold">
             Slide to reveal the Moha standard.
@@ -33,8 +33,8 @@ export default function BeforeAfter() {
         </motion.div>
         
         <div className="flex justify-between mt-6 px-2">
-            <span className="text-zinc-600 font-mono text-[10px] uppercase font-bold">Stock Chassis</span>
-            <span className="text-[#FF5F00] font-mono text-[10px] uppercase font-bold">Moha Precision</span>
+            <span className="text-zinc-600 font-mono text-[10px] uppercase font-bold">Before - Original Face</span>
+            <span className="text-[#FF5F00] font-mono text-[10px] uppercase font-bold">After - Moha Custom</span>
         </div>
       </div>
     </section>
