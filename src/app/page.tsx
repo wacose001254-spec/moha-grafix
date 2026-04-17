@@ -26,7 +26,7 @@ export default function Home() {
           className="space-y-6"
         >
           <span className="text-[#FF5F00] font-mono uppercase tracking-[0.4em] text-[10px] font-bold">
-            The Surgery Center // Nairobi, Kenya
+            The BodyWorks/PaintShop Center // Nairobi, Kenya
           </span>
           
           <h1 className="text-7xl md:text-9xl font-black uppercase tracking-tighter leading-[0.8]">
