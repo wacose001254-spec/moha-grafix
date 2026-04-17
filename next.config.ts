@@ -1,13 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   typescript: {
-    // This allows the build to finish even if there are icon/type errors
     ignoreBuildErrors: true,
   },
   eslint: {
-    // This ignores linting warnings during the build
     ignoreDuringBuilds: true,
   },
+  // Ensure there is NO output: 'export' line here
 };
 
 export default nextConfig;
