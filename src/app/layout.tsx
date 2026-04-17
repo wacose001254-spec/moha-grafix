@@ -2,7 +2,7 @@ import "./globals.css";
 import Navbar from "../components/Navbar";
 
 export const metadata = {
-  title: "Moha Grafix | The Surgery Center",
+  title: "Moha Grafix | The BodyWorks/PaintShop Center",
   description: "High-end custom fabrication & precision paint.",
 };
 

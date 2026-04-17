@@ -8,8 +8,8 @@ export default function Navbar() {
           MOHA <span className="text-[#FF5F00]">GRAFIX</span>
         </Link>
         <div className="flex gap-8">
-          <Link href="/" className="text-zinc-400 hover:text-white text-[10px] font-bold uppercase tracking-widest transition-colors">Lab</Link>
-          <Link href="/book" className="text-[#FF5F00] hover:text-white text-[10px] font-bold uppercase tracking-widest transition-colors">Book Surgery</Link>
+          <Link href="/" className="text-zinc-400 hover:text-white text-[10px] font-bold uppercase tracking-widest transition-colors">Show Room</Link>
+          <Link href="/book" className="text-[#FF5F00] hover:text-white text-[10px] font-bold uppercase tracking-widest transition-colors">Book Customization</Link>
         </div>
       </div>
     </nav>
