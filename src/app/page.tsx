@@ -1,8 +1,8 @@
 import React from 'react';
-import { Navbar } from '@/components/Navbar';
-import { Hero } from '@/components/Hero';
-import { BeforeAfterSlider } from '@/components/Beforeafter';
-import { BuildRequest } from '@/components/Livelab';
+import { Navbar } from '../components/Navbar';
+import { Hero } from '../components/Hero';
+import { BeforeAfterSlider } from '../components/Beforeafter';
+import { BuildRequest } from '../components/Livelab';
 import { Shield, Zap, Paintbrush, Gauge } from 'lucide-react';
 
 export default function HomePage() {
