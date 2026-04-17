@@ -26,7 +26,7 @@ export default function LiveLab() {
             viewport={{ once: true }}
           >
             <span className="text-[#FF5F00] font-mono text-[10px] uppercase tracking-[0.4em] font-bold">
-              // The Live Lab
+              // The Live Updates
             </span>
             <h2 className="text-white text-4xl font-black uppercase mt-2 italic tracking-tighter">Recent Builds</h2>
           </motion.div>
