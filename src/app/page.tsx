@@ -1,9 +1,8 @@
 import React from 'react';
-// Updated imports to match your single folder structure
-import { Navbar } from '@/components/navbar';
-import { Hero } from '@/components/hero';
-import { BeforeAfterSlider } from '@/components/beforeafter';
-import { BuildRequest } from '@/components/livelab';
+import { Navbar } from '@/components/Navbar';
+import { Hero } from '@/components/Hero';
+import { BeforeAfterSlider } from '@/components/Beforeafter';
+import { BuildRequest } from '@/components/Livelab';
 import { Shield, Zap, Paintbrush, Gauge } from 'lucide-react';
 
 export default function HomePage() {
