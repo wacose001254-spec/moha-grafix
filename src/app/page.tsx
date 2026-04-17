@@ -10,7 +10,7 @@ const BeforeAfter = dynamic(() => import('../components/BeforeAfter'), {
   ssr: false,
   loading: () => (
     <div className="h-[400px] bg-zinc-900 animate-pulse flex items-center justify-center text-zinc-700 font-mono text-[10px] uppercase tracking-widest">
-      Loading Visual Surgery...
+      Loading Visual Gallery Before & After...
     </div>
   )
 });
@@ -26,7 +26,7 @@ export default function Home() {
           className="space-y-6"
         >
           <span className="text-[#FF5F00] font-mono uppercase tracking-[0.4em] text-[10px] font-bold">
-            The Surgery Center // Nairobi, Kenya
+            The BodyWorks/PaintShop Center // Nairobi, Kenya
           </span>
           
           <h1 className="text-white text-7xl md:text-9xl font-black uppercase tracking-tighter leading-[0.8]">
@@ -51,7 +51,7 @@ export default function Home() {
           >
             <Link href="/book">
               <button className="px-8 py-3 bg-[#FF5F00] text-black font-black uppercase text-xs tracking-widest hover:bg-white transition-colors">
-                Book Surgery
+                Book Customization
               </button>
             </Link>
             <button className="px-8 py-3 border border-zinc-800 text-white font-black uppercase text-xs tracking-widest hover:bg-zinc-900 transition-colors">
