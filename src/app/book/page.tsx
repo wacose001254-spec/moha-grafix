@@ -8,7 +8,7 @@ export default function BookingPage() {
             // Appointment Intake
           </span>
           <h1 className="text-5xl md:text-7xl font-black uppercase tracking-tighter mt-2">
-            Schedule <br /> <span className="text-[#FF5F00]">Surgery</span>
+            Schedule <br /> <span className="text-[#FF5F00]">Customization</span>
           </h1>
           <p className="text-zinc-500 mt-4 uppercase text-xs tracking-widest font-bold">
             Precision fabrication & custom paint slots are limited.
@@ -20,7 +20,7 @@ export default function BookingPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="flex flex-col space-y-2">
               <label className="text-[10px] uppercase font-bold text-zinc-400 tracking-widest">Client Name</label>
-              <input type="text" className="bg-black border border-zinc-800 p-3 focus:border-[#FF5F00] outline-none transition-all" placeholder="DENIS WASIKE" />
+              <input type="text" className="bg-black border border-zinc-800 p-3 focus:border-[#FF5F00] outline-none transition-all" placeholder="Client Name" />
             </div>
             <div className="flex flex-col space-y-2">
               <label className="text-[10px] uppercase font-bold text-zinc-400 tracking-widest">Phone Number</label>
@@ -49,7 +49,7 @@ export default function BookingPage() {
             target="_blank"
             className="block w-full text-center bg-[#FF5F00] text-black font-black py-4 uppercase tracking-[0.2em] text-sm hover:bg-white transition-colors"
           >
-            Confirm Surgery Slot
+            Confirm Job Slot
           </a>
         </div>
       </div>
