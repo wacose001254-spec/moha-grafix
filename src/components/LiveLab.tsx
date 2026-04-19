@@ -5,14 +5,14 @@ import { motion } from "framer-motion";
 export default function LiveLab() {
   const builds = [
     { 
-      id: "RIkqZ8VRNbs", 
-      title: "VW Polo Full Paint Restoration", 
-      desc: "Full strip-down and custom matte finish." 
+      id: "jBpYmftE0D0", 
+      title: "CX5 and PRADO J150", 
+      desc: "Color Change Full Respray with Custom Graphics." 
     },
     { 
-      id: "RTXGAFcF-Mc", 
-      title: "Subaru SG5 Customized", 
-      desc: "Precision fabrication on a custom frame." 
+      id: "EteDmZhku9Q", 
+      title: "Subaru Outback", 
+      desc: "Accident Repair, Full Respray, and Custom Detailing." 
     },
   ];
 
